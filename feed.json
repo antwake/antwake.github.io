@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mart",
+    "description": "",
+    "home_page_url": "https://github.com/antwake/publiipat",
+    "feed_url": "https://github.com/antwake/publiipat/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "patoche"
+    },
+    "items": [
+        {
+            "id": "https://github.com/antwake/publiipat/homepage.html",
+            "url": "https://github.com/antwake/publiipat/homepage.html",
+            "title": "homepage",
+            "content_html": "<img src=\"https://github.com/antwake/publiipat/media/posts/3/mur-2.jpg\" alt=\"\" width=\"1000\" height=\"930\">",
+            "image": "https://github.com/antwake/publiipat/media/posts/3/",
+            "author": {
+                "name": "patoche"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-07-07T16:00:32-04:00",
+            "date_modified": "2018-07-07T16:00:32-04:00"
+        },
+        {
+            "id": "https://github.com/antwake/publiipat/truc-de-ouf.html",
+            "url": "https://github.com/antwake/publiipat/truc-de-ouf.html",
+            "title": "truc de ouf",
+            "content_html": "<h2 class=\"project-title align-center\">Refrain Memories</h2>\n<div class=\"project-description\">\n<p class=\"align-center\">2017<br>Oil on Belgian linen<br>22\" x 28\"</p>\n<p class=\"align-center\"><img src=\"https://github.com/antwake/publiipat/media/posts/2/refrain-memories.jpg\" alt=\"\" width=\"1000\" height=\"1336\"></p>\n</div>",
+            "image": "https://github.com/antwake/publiipat/media/posts/2/",
+            "author": {
+                "name": "patoche"
+            },
+            "tags": [
+                   "travaux"
+            ],
+            "date_published": "2018-07-07T15:41:44-04:00",
+            "date_modified": "2018-07-07T15:46:42-04:00"
+        },
+        {
+            "id": "https://github.com/antwake/publiipat/checke-moe-ben-aller.html",
+            "url": "https://github.com/antwake/publiipat/checke-moe-ben-aller.html",
+            "title": "checke moé ben aller",
+            "content_html": "<h2 class=\"project-title align-center\">The Women of the Spark</h2>\n<div class=\"project-description\">\n<p class=\"align-center\">2018<br>Oil on Belgian linen<br>12\" x 12\"</p>\n<p><img src=\"https://github.com/antwake/publiipat/media/posts/1/t_011.jpg\" alt=\"\" width=\"1000\" height=\"1000\"></p>\n</div>",
+            "image": "https://github.com/antwake/publiipat/media/posts/1/",
+            "author": {
+                "name": "patoche"
+            },
+            "tags": [
+                   "travaux"
+            ],
+            "date_published": "2018-07-07T15:40:23-04:00",
+            "date_modified": "2018-07-07T15:46:51-04:00"
+        }
+    ]
+}
