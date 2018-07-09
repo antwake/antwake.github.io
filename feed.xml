@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>mart</title>
-    <link href="https://github.com/antwake/publiipat/feed.xml" rel="self" />
-    <link href="https://github.com/antwake/publiipat" />
-    <updated>2018-07-08T12:07:35-04:00</updated>
+    <title>MARTIN FRANCOIS</title>
+    <link href="https://antwake.github.io/publiipat/feed.xml" rel="self" />
+    <link href="https://antwake.github.io/publiipat" />
+    <updated>2018-07-08T22:21:48-04:00</updated>
     <author>
         <name>patoche</name>
     </author>
-    <id>https://github.com/antwake/publiipat</id>
+    <id>https://antwake.github.io/publiipat</id>
 
     <entry>
         <title>homepage</title>
         <author>
             <name>patoche</name>
         </author>
-        <link href="https://github.com/antwake/publiipat/homepage.html"/>
-        <id>https://github.com/antwake/publiipat/homepage.html</id>
+        <link href="https://antwake.github.io/publiipat/homepage.html"/>
+        <id>https://antwake.github.io/publiipat/homepage.html</id>
 
         <updated>2018-07-07T16:00:32-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/antwake/publiipat/media/posts/3/" alt="" />
-                <img src="https://github.com/antwake/publiipat/media/posts/3/mur-2.jpg" alt="" width="1000" height="930">
+                    <img src="https://antwake.github.io/publiipat/media/posts/3/" alt="" />
+                <img src="https://antwake.github.io/publiipat/media/posts/3/mur-2.jpg" alt="" width="1000" height="930">
             ]]>
         </content>
     </entry>
@@ -31,19 +31,19 @@
         <author>
             <name>patoche</name>
         </author>
-        <link href="https://github.com/antwake/publiipat/truc-de-ouf.html"/>
-        <id>https://github.com/antwake/publiipat/truc-de-ouf.html</id>
+        <link href="https://antwake.github.io/publiipat/truc-de-ouf.html"/>
+        <id>https://antwake.github.io/publiipat/truc-de-ouf.html</id>
             <category term="travaux"/>
 
         <updated>2018-07-07T15:46:42-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/antwake/publiipat/media/posts/2/" alt="" />
+                    <img src="https://antwake.github.io/publiipat/media/posts/2/" alt="" />
                 <h2 class="project-title align-center">Refrain Memories</h2>
 <div class="project-description">
 <p class="align-center">2017<br>Oil on Belgian linen<br>22" x 28"</p>
-<p class="align-center"><img src="https://github.com/antwake/publiipat/media/posts/2/refrain-memories.jpg" alt="" width="1000" height="1336"></p>
+<p class="align-center"><img src="https://antwake.github.io/publiipat/media/posts/2/refrain-memories.jpg" alt="" width="1000" height="1336"></p>
 </div>
             ]]>
         </content>
@@ -53,19 +53,19 @@
         <author>
             <name>patoche</name>
         </author>
-        <link href="https://github.com/antwake/publiipat/checke-moe-ben-aller.html"/>
-        <id>https://github.com/antwake/publiipat/checke-moe-ben-aller.html</id>
+        <link href="https://antwake.github.io/publiipat/checke-moe-ben-aller.html"/>
+        <id>https://antwake.github.io/publiipat/checke-moe-ben-aller.html</id>
             <category term="travaux"/>
 
         <updated>2018-07-07T15:46:51-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/antwake/publiipat/media/posts/1/" alt="" />
+                    <img src="https://antwake.github.io/publiipat/media/posts/1/" alt="" />
                 <h2 class="project-title align-center">The Women of the Spark</h2>
 <div class="project-description">
 <p class="align-center">2018<br>Oil on Belgian linen<br>12" x 12"</p>
-<p><img src="https://github.com/antwake/publiipat/media/posts/1/t_011.jpg" alt="" width="1000" height="1000"></p>
+<p><img src="https://antwake.github.io/publiipat/media/posts/1/t_011.jpg" alt="" width="1000" height="1000"></p>
 </div>
             ]]>
         </content>
